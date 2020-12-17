@@ -6,7 +6,7 @@
     <li>ejs</li>
     <li>express</li>
     <li>SFMC Fuelsdk-node</li>
-<ul>
+</ul>
 
 <h2>NOTES:</h2>
 <ul>
